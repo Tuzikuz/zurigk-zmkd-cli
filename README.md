@@ -1,7 +1,2 @@
-# zurigk-zmkd-cli
+# zurigk
 
-
-## Info:
-// TODO
-
-This software/code does not provide any type of warranty of any kind
